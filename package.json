@@ -1,0 +1,27 @@
+{
+    "name": "about-time",
+    "version": "1.0.0",
+    "description": "每日邮件",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BlackCubeNo99/About-Time.git"
+    },
+    "author": "BlackCube",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BlackCubeNo99/About-Time/issues"
+    },
+    "homepage": "https://github.com/BlackCubeNo99/About-Time#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "ejs": "^2.6.1",
+        "fs": "0.0.1-security",
+        "nodemailer": "^5.1.1",
+        "path": "^0.12.7",
+        "superagent": "^4.1.0"
+    }
+}
