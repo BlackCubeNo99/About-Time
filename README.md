@@ -12,7 +12,7 @@
 -   path
 -   pm2
 
-相关介绍可以点击 ![Node 爬虫常用工具](https://github.com/BlackCubeNo99/Blog/issues/15)查看。
+相关介绍可以点击 [Node 爬虫常用工具](https://github.com/BlackCubeNo99/Blog/issues/15) 查看。
 
 ## 安装
 
